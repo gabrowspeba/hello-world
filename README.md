@@ -1,2 +1,2 @@
-# hello-world
-Apenas mais um repositório
+# Olá, sou o Gabriel! :)
+Estou estudando: html e java script.
