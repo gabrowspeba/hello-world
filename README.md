@@ -1,2 +1,2 @@
-# Olá, sou o Gabriel! :)
-Estou estudando: html e java script.
+# Olá, sou o Gabriel! 👨🏻‍💻
+📚 Estou estudando: html e java script.
